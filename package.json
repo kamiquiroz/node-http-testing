@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "sesion15-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "jest --verbose",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.4",
+    "supertest": "^6.1.6"
+  }
+}
